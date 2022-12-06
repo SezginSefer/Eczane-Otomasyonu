@@ -1,0 +1,6 @@
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\ViewModels\obj\Debug\ViewModels.pdb

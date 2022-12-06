@@ -1,0 +1,17 @@
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EczaneOtomasyonuDomain.dll.config
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EczaneOtomasyonuDomain.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EczaneOtomasyonuDomain.pdb
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EntityFramework.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\System.Data.SQLite.EF6.Migrations.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EntityFramework.xml
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\obj\Debug\EczaneOtomasyonuDomain.csproj.CoreCompileInputs.cache
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\obj\Debug\EczaneOtomasyonuDomain.csproj.CopyComplete
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\obj\Debug\EczaneOtomasyonuDomain.dll
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\obj\Debug\EczaneOtomasyonuDomain.pdb
+C:\Users\Sezgin\source\repos\EczaneOtomasyonuUygulaması\EczaneOtomasyonuDomain\obj\Debug\EczaneOtomasyonuDomain.csprojAssemblyReference.cache
